@@ -1,0 +1,1 @@
+Cryptography is typically bypassed, not penetrated.
